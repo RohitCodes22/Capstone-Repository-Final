@@ -1,0 +1,1 @@
+This Repository covers the necessary assignments and files needed to finish the Capstone Project for the official IBM Data Science Certification. All assignments use Python as the main programming language.
